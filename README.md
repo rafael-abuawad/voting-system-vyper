@@ -29,12 +29,12 @@ Este proyecto implementa un sistema de votación descentralizado utilizando Vype
 ## Estructura del Proyecto
 ```
 .
-├── contracts/          # Contratos inteligentes en Vyper
-├── client/            # Aplicación frontend
+├── contracts/              # Contratos inteligentes en Vyper
+├── client/                 # Aplicación frontend
 │   ├── src/
-│   │   ├── components/  # Componentes React
-│   │   └── lib/        # Utilidades y configuraciones
-└── scripts/           # Scripts de despliegue y pruebas
+│   │   ├── components/     # Componentes React
+│   │   └── lib/            # Utilidades y configuraciones
+└── scripts/                # Scripts de despliegue y pruebas
 ```
 
 ## Características de Vyper
@@ -71,7 +71,7 @@ Este proyecto implementa un sistema de votación descentralizado utilizando Vype
 
 1. Clonar el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/rafael-abuawad/voting-system-vyper.git
 cd voting-system
 ```
 
