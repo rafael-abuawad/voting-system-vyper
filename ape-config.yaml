@@ -1,0 +1,5 @@
+name: voting-system
+
+plugins:
+  - name: vyper
+  - name: base
