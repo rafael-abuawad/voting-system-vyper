@@ -1,4 +1,4 @@
-# pragma version ^0.4.2
+# pragma version ^0.4.2rc-1
 
 
 # Evento para registrar un nuevo voto
